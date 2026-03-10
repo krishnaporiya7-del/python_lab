@@ -40,7 +40,7 @@ else:
 
 
 """a=int(input("Enter first number:")) 
-b=int(input("Enter second number:"))
+b=int(input("Enter second number"))
 c=int(input("Enter thired number:")) 
 sum=a+b+c   
 print("sum=",sum)"""
