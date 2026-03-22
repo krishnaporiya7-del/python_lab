@@ -1,5 +1,5 @@
 #Basic slices
-from array import array
+"""from array import array
 arr= array('i',[10,20,30,40,50])
 print(arr[1:4])#index 1 to 3
 print(arr[:3])#start to index
