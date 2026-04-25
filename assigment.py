@@ -44,9 +44,9 @@ print("Absolute value=",abs(num))"""
 b=int(input("Enter power:"))
 print("Result=",a**b)"""
 
-num=int(input("Enter a number:"))
+"""num=int(input("Enter a number:"))
 if num>0:
     print("Positive number")
 if num<0:
-    print("Nagative  number")
+    print("Nagative  number")"""
         
